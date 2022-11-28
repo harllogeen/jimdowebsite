@@ -1,0 +1,19 @@
+#text-center {
+    background-color: #010334;
+    color: #fff;
+    padding: 6rem 0;
+}
+
+.CreateWebsiteTodayBtn {
+    color: #fff;
+    background-color: #2156fa;
+    padding: 2rem 4rem;
+    margin-top: 4rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.CreateWebsiteTodayBtn:hover {
+    background-color: #1640bd;
+    border: 2px solid #5c7ee4;
+    color: #fff;
+}

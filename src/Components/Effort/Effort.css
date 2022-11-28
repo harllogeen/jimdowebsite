@@ -1,0 +1,52 @@
+section {
+    padding: 8rem 3rem;
+}
+.common {
+   gap: 10rem;
+    columns: var(--bs-columns);
+    padding-top: 5rem;
+}
+img {
+    width: 80%;
+}
+ .text-center h1 {
+    font-size: 5rem !important;
+}
+p{
+    text-align: left;
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 45px;
+    
+}
+p i {
+    color: white;
+    background-color: #009a3d;
+   font-size: 1.5rem;
+    padding: .5rem;
+    border-radius:50% ;
+}
+#effort {
+    padding-top: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+span {
+    color: #2156fa;
+}
+
+.create h4 {
+    text-align: left;
+    padding-top: 2.5rem;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    color: #2156fa;
+    cursor: pointer;
+}
+.create h4:hover {
+    text-decoration: none;
+}
+.create i {
+    color: #2156fa;
+}

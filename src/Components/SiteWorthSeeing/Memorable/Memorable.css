@@ -1,0 +1,21 @@
+.create {
+    color: #2156fa;
+    text-decoration: underline;
+}
+
+.create:hover{
+    text-decoration: none;
+}
+
+.memorableImage {
+    padding-top: 8rem;
+}
+
+.CreateWebsiteTodayBtn{
+    padding: 2rem 5rem !important;
+    border: 2px solid #2156fa !important;
+}
+.CreateWebsiteTodayBtn:hover {
+    background-color: #2156fa !important;
+    color: #fff !important;
+}

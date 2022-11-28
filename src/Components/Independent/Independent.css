@@ -1,0 +1,55 @@
+section {
+    min-height: none !important;
+    padding: 8rem 5rem !important;
+}
+
+.independent {
+    text-align: left;
+    align-items: center;  
+}
+
+.independent p{
+    line-height: 150% ;
+    font-size: 1.9rem;
+    font-weight: normal;
+}
+.independent h1 {
+    font-size: 4rem !important;
+}
+
+#independent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f6f9fa;
+}
+
+#containerIndependent {
+    width: 100% !important;
+    display: flex !important;
+    justify-content: space-around;
+    
+}
+#row {
+    display: flex;
+    gap: 4rem;
+    
+}
+
+.ceo p {
+    line-height: 100% !important;
+    font-size: small;
+}
+.ceo {
+    position: relative;
+    top: -7rem;
+    left: 4rem;
+}
+
+.position  img{
+  position: absolute;
+  padding-top: 2rem;
+  
+}
+
+

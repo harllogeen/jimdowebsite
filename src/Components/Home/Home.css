@@ -1,0 +1,39 @@
+.home {
+    display:flex;
+    justify-content: space-around;
+    padding: 8rem 3rem !important;
+    background-color: rgb(238,240,255);
+    margin-top: 8rem;
+}
+
+.everything h1 {
+    font-size: 6rem;
+    font-weight: normal;
+    line-height: 140%;
+    color: #010334;
+}
+.buildHomeOnline p {
+    font-size: 1.8rem;
+    font-weight: normal;
+    line-height: 3rem
+}
+.buildHomeOnlineBtn {
+    background-color: #2156fa;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    padding: 2rem 16rem;
+    margin-top: 4rem;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+.buildHomeOnlineBtn:hover{
+    background-color: #123fc7;
+}
+.homeImage {
+    width: 100%;
+
+}
+.bgimage {
+    width: 100%;
+}

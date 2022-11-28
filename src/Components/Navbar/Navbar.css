@@ -1,0 +1,45 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 3rem;
+    
+    
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+nav li {
+    list-style: none;
+    margin-left: 3rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    font-weight: 500;
+}
+nav li:hover{
+    color: #2156f9;
+}
+.product:hover {
+    color: black;
+}
+.product i:hover {
+    color: #2156f9;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+.jimbo {
+    border: 3px solid #010334;
+    padding: 1rem;
+    font-size: 2rem;
+    color: #010334;
+    line-height: 1rem;
+    letter-spacing: .6rem;
+    font-weight: bolder;
+    cursor: pointer;
+}
